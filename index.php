@@ -286,7 +286,7 @@ $genralInfo->getYoutubeChannelLink();
          <meta name = "title" content="<?php echo $genralInfo->getCompanyName(); ?>">
          <meta name = "author" content="WDU"> 
          <meta name = "keywords" content="Digital Visiting Card, Visiting Card, Online visiting card">
-         <meta name = "description" content="ABC is committed to the overall success of students. We assure students to provide an amazing success through the correct inputs of knowledge">
+         <meta name = "description" content="Delears in CBSE | NCERT | SSLC | PUC | IIT | NEET | Medical All Degree | B.E | B.Tech | M.Com | MBA | All competitive Books.">
          <meta name = "language" content="English">
          <meta http-equiv = "Content-Type" content="text/html; UTF-8">
          <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
@@ -346,7 +346,7 @@ $genralInfo->getYoutubeChannelLink();
             <p><?php echo $genralInfo->getDesignation(); ?></p>
 <br>
             <p><span style='color: #ff6600;'>Dealers In </span><br><br>
-                CBSE | NCERT | SSLC | PUC | IIT | NEET | Medical All Degree | B.E | B.Tech | M.Com | MBA | All competitive Books
+                CBSE | NCERT | SSLC | PUC | IIT | NEET | Medical All Degree | B.E | B.Tech | M.Com | MBA | All competitive Books.
             </p>
             </center>
          </div>
